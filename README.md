@@ -5,4 +5,4 @@ The design was developed in [Figma](https://www.figma.com/file/ny6rwnPVtutVpM4fY
 ## Launch
 * Download the archive;
 * Unzip it to a convenient location;
-* Run index.html
+* Run index.html.
